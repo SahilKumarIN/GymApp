@@ -9,10 +9,10 @@ const ModalCard = (props) => {
   return (
     <Animatable.View
       style={{
-        width: '90%',
-        height: '60%',
+        width: '85%',
+        height: '55%',
         backgroundColor: 'white',
-        borderRadius: 30,
+        borderRadius: 20,
         overflow: 'hidden'
       }}
       animation={'zoomIn'}
